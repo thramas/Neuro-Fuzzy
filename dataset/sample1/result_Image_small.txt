@@ -1,0 +1,5 @@
+Percentage of Gray(Lable1, Urban): 23.956921
+Percentage of Blue(Lable2, Water): 29.708815
+Percentage of Red(Lable3, Forest): 23.585959
+Percentage of Green(Lable4, Mangrove): 11.224571
+Percentage of Yellow(Lable5, Land): 11.523734
